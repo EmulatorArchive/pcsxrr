@@ -1,0 +1,30 @@
+pcsxrr
+PCSX Rerecording
+	
+PCSX Rerecording is a special version of PCSX with many new features such as input rerecording, cheat support, RAM search, RAM watch, fast-forward, customizable hotkeys, Lua scripting, etc. PCSX is a Sony PlayStation emulator.
+
+News
+
+April 4, 2010: PCSX Rerecording v0.1.3 is released.
+
+August 9, 2009: PCSX Rerecording v0.1.2 is released.
+
+August 5, 2009: PCSX Rerecording v0.1.1a is released.
+
+Releases
+
+PCSX Rerecording v0.1.3 is now available! You can download it from the "Featured Downloads" section on the right.
+
+Documentation
+
+QuickTutorial (https://code.google.com/p/pcsxrr/wiki/QuickTutorial) Short tutorial for first-time users of PCSX.
+
+Changelog (https://code.google.com/p/pcsxrr/wiki/Changelog) Record of changes made to PCSX-RR since v0.0.1.
+
+AviHelp (https://code.google.com/p/pcsxrr/wiki/AviHelp) How to record AVI files.
+
+pxmFileFormat (https://code.google.com/p/pcsxrr/wiki/pxmFileFormat) PCSX movie file format description.
+
+LuaScriptingFunctions (https://code.google.com/p/pcsxrr/wiki/LuaScriptingFunctions)	Lua Scripting Function List.
+
+(Saved: March 16, 2015)
